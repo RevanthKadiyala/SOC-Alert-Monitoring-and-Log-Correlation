@@ -16,7 +16,7 @@ This project demonstrates the implementation of a Security Operations Center (SO
 
 ## Architecture
 
-![Architecture](screenshots/Architecture.png)
+![Architecture](screenshots/Architecture1.png)
 
 ## Security Alerts Implemented
 
@@ -58,7 +58,7 @@ Failed Login → System Discovery → Network Reconnaissance
 
 Workflow:
 
-![AI Workflow](screenshots/screenshots/AI_soc_report.png)
+![AI Workflow](screenshots/AI_workflow.png)
 
 ## Project Outcomes
 

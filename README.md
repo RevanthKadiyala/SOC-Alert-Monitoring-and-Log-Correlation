@@ -53,13 +53,12 @@ Failed Login → System Discovery → Network Reconnaissance
 
 ![AI Workflow](screenshots/N8N_email_filter_creation.png)
 ![AI Workflow](screenshots/n8n_work_flow2.png)
-![AI Workflow](screenshots/screenshots/AI_soc_report.png)
 ![AI Workflow](screenshots/AI_soc_report.png)
 
 
 Workflow:
 
-Splunk Alerts → Gmail → n8n → Google Gemini → Incident Report
+![AI Workflow](screenshots/screenshots/AI_soc_report.png)
 
 ## Project Outcomes
 

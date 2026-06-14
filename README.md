@@ -1,8 +1,7 @@
-# SOC Alert Monitoring and Log Correlation Using Splunk and Sysmon
+SOC Alert Monitoring and Log Correlation Using Splunk and Sysmon
+Project Overview
 
-## Project Overview
-
-This project demonstrates the implementation of a Security Operations Center (SOC) monitoring environment using Splunk Enterprise and Sysmon. The solution collects authentication, endpoint, and network logs, generates real-time alerts, correlates security events, and demonstrates the investigation workflow followed by SOC analysts.
+This project demonstrates the implementation of a Security Operations Center (SOC) monitoring environment using Splunk Enterprise and Sysmon. Authentication, endpoint, and network logs were collected, monitored, and analyzed to detect suspicious activities. Three security alerts were created and correlated to reconstruct attacker-like behavior and demonstrate the SOC investigation workflow.
 
 ## Technologies Used
 
@@ -17,6 +16,8 @@ This project demonstrates the implementation of a Security Operations Center (SO
 ## Architecture
 
 ![Architecture](screenshots/Architecture1.png)
+
+The architecture consists of Kali Linux for attack simulation, Windows 10 as the monitored endpoint, Sysmon for endpoint telemetry, Splunk Universal Forwarder for log forwarding, and Splunk Enterprise for monitoring and alert generation.
 
 ## Security Alerts Implemented
 

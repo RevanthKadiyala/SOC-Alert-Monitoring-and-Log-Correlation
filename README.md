@@ -23,15 +23,21 @@ The architecture consists of Kali Linux for attack simulation, Windows 10 as the
 
 ### 1. Failed Login Detection
 
+![failedlogin](screenshots/Failed_Login_Alert2.png)
+
 * Windows Event ID 4625
 * Detects failed authentication attempts
 
 ### 2. System Information Enumeration
 
+![systeminfo](screenshots/System_Discovery_Alert2.png)
+
 * Sysmon Event ID 1
 * Detects execution of systeminfo.exe
 
 ### 3. PowerShell Network Reconnaissance
+
+![powershell](screenshots/Network_Recon_Alert1.png)
 
 * Sysmon Event ID 3
 * Detects PowerShell network activity

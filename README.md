@@ -16,7 +16,7 @@ This project demonstrates the implementation of a Security Operations Center (SO
 
 ## Architecture
 
-![Architecture](screenshots/SOC_dashboard.png)
+![Architecture](screenshots/Architecture.png)
 
 ## Security Alerts Implemented
 
@@ -45,11 +45,17 @@ Failed Login → System Discovery → Network Reconnaissance
 
 ## Dashboard Monitoring
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](screenshots/SOC_dashboard.png)
 
 ## AI-Powered Incident Reporting
 
-![AI Workflow](screenshots/AI_Workflow.png)
+
+
+![AI Workflow](screenshots/N8N_email_filter_creation.png)
+![AI Workflow](screenshots/n8n_work_flow2.png)
+![AI Workflow](screenshots/screenshots/AI_soc_report.png)
+![AI Workflow](screenshots/AI_soc_report.png)
+
 
 Workflow:
 

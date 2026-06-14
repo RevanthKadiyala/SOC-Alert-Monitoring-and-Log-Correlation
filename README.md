@@ -16,7 +16,7 @@ This project demonstrates the implementation of a Security Operations Center (SO
 
 ## Architecture
 
-screenshots/SOC dashboard.png
+![Architecture](screenshots/SOCdashboard.png)
 
 ## Security Alerts Implemented
 

@@ -73,6 +73,33 @@ Workflow:
 
 ![AI Workflow](screenshots/AI_workflow.png)
 
+## MITRE ATT&CK Techniques
+
+- T1110 – Brute Force
+- T1082 – System Information Discovery
+- T1016 – System Network Configuration Discovery
+- T1059.001 – PowerShell
+
+## Skills Demonstrated
+
+- SIEM Monitoring
+- Splunk Search Processing Language (SPL)
+- Sysmon Configuration
+- Security Alerting
+- Log Correlation
+- Incident Investigation
+- Dashboard Development
+- Security Automation
+- AI-Assisted Incident Reporting
+
+## Future Enhancements
+
+- SOAR Integration
+- Automated Ticket Creation
+- Multi-Endpoint Monitoring
+- Threat Intelligence Integration
+- AI-Based Alert Prioritization
+
 ## Project Outcomes
 
 * 3 Security Alerts Generated
